@@ -1,0 +1,20 @@
+https://drive.google.com/file/d/1D_ZorskHfce9rzeXYAYyM4zaOgRG8GFi/view?usp=drivesdk
+
+Voice call bot
+
+This is the API endpoint that will be called. Written in JavaScript though but we can understand.
+
+We will send in request the case Id and API will in response return the case status
+
+You don't need to deploy webhook. You only need to make it run locally and test. And allow them to test, while keeping the ngrok server running on your machine. 
+Once client is satisfied with production they will deploy it by own
+
+The client background is, they are a data recovery company. If hard disk issues than they retrive data
+
+I request that you don't take this Sunday off. We have a 2 days deadline. After the project, I will give you a day off in next week working days
+
+It should have proper fallback intents, context based fallback intents
+
+I know you will do great. Good luck!
+
+
